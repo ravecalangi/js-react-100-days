@@ -1,49 +1,49 @@
-Scroll Snap Layout
+Scroll Snap Demo
 Description
 
-A simple full-page vertical scroll layout that snaps sections into place as the user scrolls.
+A web project that creates a full-page vertical scroll layout with sections that snap into place as the user scrolls.
 
-Demonstrates CSS scroll snapping using scroll-snap-type and scroll-snap-align.
+Demonstrates smooth and responsive CSS scroll snapping.
 
 Features
 
-Full-page sections with distinct background colors.
+Full-page vertical sections with distinct background colors.
 
-Smooth vertical scroll snapping (proximity or mandatory).
+Scroll snapping using CSS (proximity or mandatory).
 
-Flexible alignment options: start, center, or end.
+Flexible alignment: start, center, or end of sections.
 
-Responsive layout that fits any viewport height.
+Works across modern web browsers without JavaScript.
 
 Technologies Used
 
 HTML5
 
-CSS3 (including scroll-snap-type and scroll-snap-align)
-
-No JavaScript required
+CSS3
 
 How to Run
 
-Clone or download the project.
+Clone or download the repository.
 
 Open index.html in any modern web browser.
 
 Usage
 
-Scroll up or down to navigate through the sections.
+Scroll vertically through the sections.
 
-The viewport will snap to each section based on the chosen scroll snap behavior.
+The viewport will snap to each section based on the scroll-snap-type and scroll-snap-align properties.
 
 Example:
 
-Scroll down: SECTION 1 → SECTION 2 → SECTION 3 → SECTION 4
+Scrolling down through the page:
 
-Changing scroll-snap-type in html CSS:
+SECTION 1 → SECTION 2 → SECTION 3 → SECTION 4 → …
 
-y proximity → snaps only when near a section (soft snapping).
+Adjusting scroll-snap-type in CSS:
 
-y mandatory → always snaps to the nearest section (strong snapping).
+y proximity → snaps only when near a snap point.
+
+y mandatory → always snaps to the nearest section.
 
 License
 
