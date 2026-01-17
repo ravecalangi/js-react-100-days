@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Scroll Snap Layout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+      }
+
+      /* reliable on in html (html mainly handle the scroll) */
+      html { 
+          /* CHANGE to
+          'proximity' -> Snaps only if near a snap point (smooth)
+          'mandatory' -> Always snaps to nearest snap point (aggressive) 
+          */
+          scroll-snap-type: y proximity; 
+      }
+
+      section {
+        height: 100vh; 
+        scroll-snap-align: start;/* start, center, bottom */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 4rem;
+        font-weight: bold;
+        color: white;
+        transition: transform 0.3s;
+      }
+
+      .one { background: #e74c3c; }    /* red */
+      .two { background: #3498db; }    /* blue */
+      .three { background: #2ecc71; }  /* green */
+      .four { background: #f1c40f; }   /* yellow */
+    </style>
+  </head>
+  <body>
+
+    <section class="one">SECTION 1</section>
+    <section class="two">SECTION 2</section>
+    <section class="three">SECTION 3</section>
+    <section class="four">SECTION 4</section>
+    <section class="one">SECTION 5</section>
+    <section class="two">SECTION 6</section>
+    <section class="three">SECTION 7</section>
+    <section class="four">SECTION 8</section>
+
+  </body>
+</html>
