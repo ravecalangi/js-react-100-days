@@ -22,7 +22,9 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 17 – Joke Generator
 - ✅ Day 18 – Personalized Chatbot
 - ✅ Day 19 – Text to Speech Converter
-- ⏳ Day 20 – In Progress
+- ✅ Day 20 – Scroll Snap Layout
+- ✅ Day 21 – Animal Search
+- ⏳ Day 22 – In Progress
 
 
 
