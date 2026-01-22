@@ -1,0 +1,46 @@
+body {
+    margin: 10px;
+    font-size: 16px; /* default root font-size */
+}
+
+.box-fifty-percent {
+    width: 50%;
+    height: 50px; /* added height for visibility */
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.one-hundred-pixels {
+    width: 100px;
+    height: 50px; /* added height also*/
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.parent {
+    border: 1px solid black;
+    padding: 3px;
+    width: 135px;
+}
+
+.box-fifty-vw {
+    width: 50vw;
+    height: 50px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.box-twenty-vh {
+    width: 20vh;
+    height: 50px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
