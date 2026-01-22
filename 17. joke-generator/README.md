@@ -37,6 +37,3 @@
 
 ## License
 MIT License
-
-<img width="1024" height="1024" alt="final logo" src="https://github.com/user-attachments/assets/44a03460-5381-4157-867f-33cc7f70fcec" />
-
