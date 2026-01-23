@@ -24,8 +24,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 19 – Text to Speech Converter
 - ✅ Day 20 – Scroll Snap Layout
 - ✅ Day 21 – Animal Search
-- ⏳ Day 22 – Responsive UI Playground
-- ✅ Day 23 – In Progress
+- ✅ Day 22 – Responsive UI Playground
+- ⏳ Day 23 – In Progress
 
 
 
