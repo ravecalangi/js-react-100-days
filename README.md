@@ -1,4 +1,4 @@
-# 100 Days of JavaScript/ReactJS
+# 100 Days of JavaScript & React
 
 A collection of JavaScript snippets and mini projects for 100 days
 
