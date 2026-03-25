@@ -27,7 +27,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 22 – Responsive UI Playground
 - ✅ Day 23 – Swiper Image Carousel
 - ✅ Day 24 – The Book Stack
-- ⏳ Day 25 – In Progress
+- ✅ Day 25 – To-Do List
+- ⏳ Day 26 – In Progress
 
 
 
