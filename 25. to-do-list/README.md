@@ -2,7 +2,6 @@
 
 ## Description
 - A basic web-based to-do list application that allows users to add and remove tasks dynamically.
-- Built using vanilla JavaScript with simple HTML and CSS for structure and styling.
 
 ## Features
 - Add tasks using a button
