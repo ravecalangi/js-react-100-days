@@ -25,7 +25,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 20 – Scroll Snap Layout
 - ✅ Day 21 – Animal Search
 - ✅ Day 22 – Responsive UI Playground
-- ⏳ Day 23 – In Progress
+- ✅ Day 23 – Swiper Image Carousel
+- ⏳ Day 24 – In Progress
 
 
 
