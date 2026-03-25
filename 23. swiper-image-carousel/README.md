@@ -1,4 +1,4 @@
-# Horizontal Image Carousel
+# Swiper Image Carousel
 
 ## Description
 - A responsive horizontal image carousel that allows users to scroll through images using mouse wheel or navigation buttons.  
